@@ -1,2 +1,2 @@
-# Virtual-Pet-1
-Part 1 of the Virtual Pet Game leveraging Firebase Realtime Database.
+# Virtual-Pet-2
+Part 2 of the Virtual Pet Game leveraging Firebase Realtime Database.
